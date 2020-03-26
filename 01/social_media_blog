@@ -1,0 +1,415 @@
+<html lang="en-US"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>New Literacy – D2 Software</title>
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="D2 Software » Feed" href="https://unco-d2se.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="D2 Software » Comments Feed" href="https://unco-d2se.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="D2 Software » New Literacy Comments Feed" href="https://unco-d2se.com/new-literacy/feed/">
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+<!-- No UA code set -->
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/unco-d2se.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://unco-d2se.com/wp-includes/js/wp-emoji-release.min.js?ver=5.3.2" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="twentynineteen-jetpack-css" href="https://unco-d2se.com/wp-content/plugins/jetpack/modules/theme-tools/compat/twentynineteen.css?ver=8.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://unco-d2se.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2" type="text/css" media="all">
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel="stylesheet" id="wp-block-library-theme-css" href="https://unco-d2se.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="twentynineteen-style-css" href="https://unco-d2se.com/wp-content/themes/twentynineteen/style.css?ver=1.4" type="text/css" media="all">
+<link rel="stylesheet" id="twentynineteen-print-style-css" href="https://unco-d2se.com/wp-content/themes/twentynineteen/print.css?ver=1.4" type="text/css" media="print">
+<link rel="stylesheet" id="social-logos-css" href="https://unco-d2se.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://unco-d2se.com/wp-content/plugins/jetpack/css/jetpack.css?ver=8.1.1" type="text/css" media="all">
+<script type="text/javascript" src="https://unco-d2se.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://unco-d2se.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<link rel="https://api.w.org/" href="https://unco-d2se.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://unco-d2se.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://unco-d2se.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Path to this point BLOG 1" href="https://unco-d2se.com/path-to-this-point-blog-1/">
+<meta name="generator" content="WordPress 5.3.2">
+<link rel="canonical" href="https://unco-d2se.com/new-literacy/">
+<link rel="shortlink" href="https://wp.me/pbBPL2-x">
+<link rel="alternate" type="application/json+oembed" href="https://unco-d2se.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Funco-d2se.com%2Fnew-literacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://unco-d2se.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Funco-d2se.com%2Fnew-literacy%2F&amp;format=xml">
+
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<link rel="dns-prefetch" href="//i0.wp.com">
+<link rel="dns-prefetch" href="//i1.wp.com">
+<link rel="dns-prefetch" href="//i2.wp.com">
+<style type="text/css">img#wpstats{display:none}</style>
+	<style type="text/css" id="custom-theme-colors">
+		
+		/*
+		 * Set background for:
+		 * - featured image :before
+		 * - featured image :before
+		 * - post thumbmail :before
+		 * - post thumbmail :before
+		 * - Submenu
+		 * - Sticky Post
+		 * - buttons
+		 * - WP Block Button
+		 * - Blocks
+		 */
+		.image-filters-enabled .site-header.featured-image .site-featured-image:before,
+		.image-filters-enabled .site-header.featured-image .site-featured-image:after,
+		.image-filters-enabled .entry .post-thumbnail:before,
+		.image-filters-enabled .entry .post-thumbnail:after,
+		.main-navigation .sub-menu,
+		.sticky-post,
+		.entry .entry-content .wp-block-button .wp-block-button__link:not(.has-background),
+		.entry .button, button, input[type="button"], input[type="reset"], input[type="submit"],
+		.entry .entry-content > .has-primary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].has-primary-background-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-primary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color.has-primary-background-color,
+		.entry .entry-content .wp-block-file .wp-block-file__button {
+			background-color: hsl( 199, 100%, 33% ); /* base: #0073a8; */
+		}
+
+		/*
+		 * Set Color for:
+		 * - all links
+		 * - main navigation links
+		 * - Post navigation links
+		 * - Post entry meta hover
+		 * - Post entry header more-link hover
+		 * - main navigation svg
+		 * - comment navigation
+		 * - Comment edit link hover
+		 * - Site Footer Link hover
+		 * - Widget links
+		 */
+		a,
+		a:visited,
+		.main-navigation .main-menu > li,
+		.main-navigation ul.main-menu > li > a,
+		.post-navigation .post-title,
+		.entry .entry-meta a:hover,
+		.entry .entry-footer a:hover,
+		.entry .entry-content .more-link:hover,
+		.main-navigation .main-menu > li > a + svg,
+		.comment .comment-metadata > a:hover,
+		.comment .comment-metadata .comment-edit-link:hover,
+		#colophon .site-info a:hover,
+		.widget a,
+		.entry .entry-content .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color),
+		.entry .entry-content > .has-primary-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-primary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-primary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-primary-color p {
+			color: hsl( 199, 100%, 33% ); /* base: #0073a8; */
+		}
+
+		/*
+		 * Set border color for:
+		 * wp block quote
+		 * :focus
+		 */
+		blockquote,
+		.entry .entry-content blockquote,
+		.entry .entry-content .wp-block-quote:not(.is-large),
+		.entry .entry-content .wp-block-quote:not(.is-style-large),
+		input[type="text"]:focus,
+		input[type="email"]:focus,
+		input[type="url"]:focus,
+		input[type="password"]:focus,
+		input[type="search"]:focus,
+		input[type="number"]:focus,
+		input[type="tel"]:focus,
+		input[type="range"]:focus,
+		input[type="date"]:focus,
+		input[type="month"]:focus,
+		input[type="week"]:focus,
+		input[type="time"]:focus,
+		input[type="datetime"]:focus,
+		input[type="datetime-local"]:focus,
+		input[type="color"]:focus,
+		textarea:focus {
+			border-color: hsl( 199, 100%, 33% ); /* base: #0073a8; */
+		}
+
+		.gallery-item > div > a:focus {
+			box-shadow: 0 0 0 2px hsl( 199, 100%, 33% ); /* base: #0073a8; */
+		}
+
+		/* Hover colors */
+		a:hover, a:active,
+		.main-navigation .main-menu > li > a:hover,
+		.main-navigation .main-menu > li > a:hover + svg,
+		.post-navigation .nav-links a:hover,
+		.post-navigation .nav-links a:hover .post-title,
+		.author-bio .author-description .author-link:hover,
+		.entry .entry-content > .has-secondary-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-secondary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-secondary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-secondary-color p,
+		.comment .comment-author .fn a:hover,
+		.comment-reply-link:hover,
+		.comment-navigation .nav-previous a:hover,
+		.comment-navigation .nav-next a:hover,
+		#cancel-comment-reply-link:hover,
+		.widget a:hover {
+			color: hsl( 199, 100%, 23% ); /* base: #005177; */
+		}
+
+		.main-navigation .sub-menu > li > a:hover,
+		.main-navigation .sub-menu > li > a:focus,
+		.main-navigation .sub-menu > li > a:hover:after,
+		.main-navigation .sub-menu > li > a:focus:after,
+		.main-navigation .sub-menu > li > .menu-item-link-return:hover,
+		.main-navigation .sub-menu > li > .menu-item-link-return:focus,
+		.main-navigation .sub-menu > li > a:not(.submenu-expand):hover,
+		.main-navigation .sub-menu > li > a:not(.submenu-expand):focus,
+		.entry .entry-content > .has-secondary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].has-secondary-background-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-secondary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color.has-secondary-background-color {
+			background-color: hsl( 199, 100%, 23% ); /* base: #005177; */
+		}
+
+		/* Text selection colors */
+		::selection {
+			background-color: hsl( 199, 50%, 90% ); /* base: #005177; */
+		}
+		::-moz-selection {
+			background-color: hsl( 199, 50%, 90% ); /* base: #005177; */
+		}	</style>
+	<link rel="pingback" href="https://unco-d2se.com/xmlrpc.php"><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="New Literacy">
+<meta property="og:url" content="https://unco-d2se.com/new-literacy/">
+<meta property="og:description" content="bonuses for being social media literate!">
+<meta property="article:published_time" content="2020-01-26T21:34:11+00:00">
+<meta property="article:modified_time" content="2020-01-26T21:34:11+00:00">
+<meta property="og:site_name" content="D2 Software">
+<meta property="og:image" content="https://unco-d2se.com/wp-content/uploads/2020/01/Social-media-icons.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="640">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:text:title" content="New Literacy">
+<meta name="twitter:card" content="summary">
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/unco-d2se.com/wp-content/uploads/2020/01/cropped-breadboard-1.jpg?fit=32%2C32&amp;ssl=1" sizes="32x32">
+<link rel="icon" href="https://i0.wp.com/unco-d2se.com/wp-content/uploads/2020/01/cropped-breadboard-1.jpg?fit=192%2C192&amp;ssl=1" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://i0.wp.com/unco-d2se.com/wp-content/uploads/2020/01/cropped-breadboard-1.jpg?fit=180%2C180&amp;ssl=1">
+<meta name="msapplication-TileImage" content="https://i0.wp.com/unco-d2se.com/wp-content/uploads/2020/01/cropped-breadboard-1.jpg?fit=270%2C270&amp;ssl=1">
+</head>
+
+<body class="post-template-default single single-post postid-33 single-format-standard wp-custom-logo wp-embed-responsive singular image-filters-enabled">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header">
+
+			<div class="site-branding-container">
+				<div class="site-branding">
+
+			<div class="site-logo"><a href="https://unco-d2se.com/" class="custom-logo-link" rel="home"><img width="190" height="190" src="https://i1.wp.com/unco-d2se.com/wp-content/uploads/2020/01/cropped-code-1.jpg?fit=190%2C190&amp;ssl=1" class="custom-logo" alt="D2 Software" srcset="https://i1.wp.com/unco-d2se.com/wp-content/uploads/2020/01/cropped-code-1.jpg?w=190&amp;ssl=1 190w, https://i1.wp.com/unco-d2se.com/wp-content/uploads/2020/01/cropped-code-1.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 190px) 100vw, 190px"></a></div>
+								<p class="site-title"><a href="https://unco-d2se.com/" rel="home">D2 Software</a></p>
+			
+				<p class="site-description">
+				catalog of webpage developement or software			</p>
+				<nav id="site-navigation" class="main-navigation" aria-label="Top Menu">
+			<div class="menu-blogs-container"><ul id="menu-blogs" class="main-menu"><li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-40"><a href="https://unco-d2se.com/path-to-this-point-blog-1/">Path to this point BLOG 1</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-41"><a href="https://unco-d2se.com/new-literacy/" aria-current="page">New Literacy</a></li>
+</ul></div><div class="main-menu-more"><ul class="main-menu"><li class="menu-item menu-item-has-children"><button class="submenu-expand main-menu-more-toggle is-empty" tabindex="-1" aria-label="More" aria-haspopup="true" aria-expanded="false"><span class="screen-reader-text">More</span><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"></path><path fill="currentColor" fill-rule="nonzero" d="M12 2c5.52 0 10 4.48 10 10s-4.48 10-10 10S2 17.52 2 12 6.48 2 12 2zM6 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm6 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm6 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"></path></g></svg></button><ul class="sub-menu hidden-links"><li id="menu-item--1" class="mobile-parent-nav-menu-item menu-item--1"><button class="menu-item-link-return"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>Back</button></li></ul></li></ul></div>		</nav><!-- #site-navigation -->
+		</div><!-- .site-branding -->
+			</div><!-- .site-branding-container -->
+
+					</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<section id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+			
+<article id="post-33" class="post-33 post type-post status-publish format-standard hentry category-social-media tag-face-book tag-instagram tag-linkedin tag-pintrest tag-twitter tag-you-tube entry">
+		<header class="entry-header">
+		
+<h1 class="entry-title">New Literacy</h1>
+<div class="entry-meta">
+	<span class="byline"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted by</span><span class="author vcard"><a class="url fn n" href="https://unco-d2se.com/author/darren-dobelman2/">darren.dobelman2</a></span></span>	<span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><path id="a" d="M0 0h24v24H0V0z"></path></defs><clipPath id="b"><use xlink:href="#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"></path></svg><a href="https://unco-d2se.com/new-literacy/" rel="bookmark"><time class="entry-date published updated" datetime="2020-01-26T21:34:11+00:00">January 26, 2020</time></a></span>	<span class="comment-count">
+				<span class="comments-link"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><a href="https://unco-d2se.com/new-literacy/#respond">Leave a comment<span class="screen-reader-text"> on New Literacy</span></a></span>	</span>
+	</div><!-- .entry-meta -->
+	</header>
+	
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized is-style-default"><img src="https://i2.wp.com/unco-d2se.com/wp-content/uploads/2020/01/Social-media-icons.png?resize=586%2C586&amp;ssl=1" alt="" class="wp-image-34" width="586" height="586" srcset="https://i2.wp.com/unco-d2se.com/wp-content/uploads/2020/01/Social-media-icons.png?w=640&amp;ssl=1 640w, https://i2.wp.com/unco-d2se.com/wp-content/uploads/2020/01/Social-media-icons.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/unco-d2se.com/wp-content/uploads/2020/01/Social-media-icons.png?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 586px) 100vw, 586px"><figcaption>“If you are social media illiterate the world is spinning by you.”<br>Darren Dobelman</figcaption></figure>
+
+
+
+<p>Facebook, Twitter, You Tube, Instagram, Linkedin, and may more.</p>
+
+
+
+<p>These are the top social media services available today, and their uniqueness in today social media landscape.  We will cover their usefulness in this short offering.</p>
+
+
+
+<p> Face Book:  This started out as the Facebook as a college chat board and exploded a little over a decade ago.  Its unique trait is its population, described in one word, monstrous in size.  If groomed right it can be a springboard to get your product in front of billions of eyes!</p>
+
+
+
+<p>Twitter:  Though as of late twitter is simply a political headache in 244 characters, it is the easiest way to keep the attention of our younger crowd.  Our youth is much more acquainted to shorter attention spans, and Twitter is their gospel.  So, groom Twitter if your target audience is mid 20’s and younger.</p>
+
+
+
+<p>You Tube:  This platform is easier to get video content to the viewers and get paid in the process by You Tube.  I believe it is 1000 views gets a dollar, depending on the time of year.  I plan on using this to advertise my games, not on my own channel at first.  I actually intend to send free copies to major You Tubers and if they like it then they play it on their channel and I pay them a preset fee.</p>
+
+
+
+<p>There are many more to cover but I will close with this thought.  In today’s business world cultivating a multiplatform presence in cyberspace is now the most effective way to create and maintain your own advertising base.  A base of followers that follow you because of your product, not haphazard commercials on T.V. that no one watches or cares for anymore.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-33" class="share-twitter sd-button share-icon" href="https://unco-d2se.com/new-literacy/?share=twitter&amp;nb=1" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-33" class="share-facebook sd-button share-icon" href="https://unco-d2se.com/new-literacy/?share=facebook&amp;nb=1" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li></ul></div></div></div>	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted by</span><span class="author vcard"><a class="url fn n" href="https://unco-d2se.com/author/darren-dobelman2/">darren.dobelman2</a></span></span><span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><path id="a" d="M0 0h24v24H0V0z"></path></defs><clipPath id="b"><use xlink:href="#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"></path></svg><a href="https://unco-d2se.com/new-literacy/" rel="bookmark"><time class="entry-date published updated" datetime="2020-01-26T21:34:11+00:00">January 26, 2020</time></a></span><span class="cat-links"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted in</span><a href="https://unco-d2se.com/category/social-media/" rel="category tag">Social media</a></span><span class="tags-links"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.41 11.58l-9-9C12.05 2.22 11.55 2 11 2H4c-1.1 0-2 .9-2 2v7c0 .55.22 1.05.59 1.42l9 9c.36.36.86.58 1.41.58.55 0 1.05-.22 1.41-.59l7-7c.37-.36.59-.86.59-1.41 0-.55-.23-1.06-.59-1.42zM5.5 7C4.67 7 4 6.33 4 5.5S4.67 4 5.5 4 7 4.67 7 5.5 6.33 7 5.5 7z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Tags: </span><a href="https://unco-d2se.com/tag/face-book/" rel="tag">Face Book</a>, <a href="https://unco-d2se.com/tag/instagram/" rel="tag">Instagram</a>, <a href="https://unco-d2se.com/tag/linkedin/" rel="tag">Linkedin</a>, <a href="https://unco-d2se.com/tag/pintrest/" rel="tag">Pintrest</a>, <a href="https://unco-d2se.com/tag/twitter/" rel="tag">Twitter</a>, <a href="https://unco-d2se.com/tag/you-tube/" rel="tag">You Tube</a></span>	</footer><!-- .entry-footer -->
+
+				
+</article><!-- #post-33 -->
+
+	<nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://unco-d2se.com/path-to-this-point-blog-1/" rel="prev"><span class="meta-nav" aria-hidden="true">Previous Post</span> <span class="screen-reader-text">Previous post:</span> <br><span class="post-title">Path to this point BLOG 1</span></a></div></div>
+	</nav>
+<div id="comments" class="comments-area">
+	<div class="comments-title-wrap no-responses">
+		<h2 class="comments-title">
+		Leave a comment		</h2><!-- .comments-title -->
+			</div><!-- .comments-title-flex -->
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/new-literacy/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://unco-d2se.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate=""><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="5" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200"></p>
+<p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"> <input type="hidden" name="comment_post_ID" value="33" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p><input type="hidden" name="js-spam-prevention" value="bfb673bd49c2b5df3c814c897029852d"></form>	</div><!-- #respond -->
+		<script type="text/javascript">
+        jQuery( document ).ready( function( $ ) {
+            $( '.comment-form, #registerform' ).append( '<input type="hidden" name="js-spam-prevention" value="bfb673bd49c2b5df3c814c897029852d"/>' );
+        } );
+	</script>
+	</div><!-- #comments -->
+
+		</main><!-- #main -->
+	</section><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+		
+	<aside class="widget-area" role="complementary" aria-label="Footer">
+							<div class="widget-column footer-widget-1">
+					<section id="search-2" class="widget widget_search"><h2 class="widget-title">Search</h2><form role="search" method="get" class="search-form" action="https://unco-d2se.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Search">
+			</form></section>		<section id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Recent Posts</h2>		<ul>
+											<li>
+					<a href="https://unco-d2se.com/new-literacy/" aria-current="page">New Literacy</a>
+									</li>
+											<li>
+					<a href="https://unco-d2se.com/path-to-this-point-blog-1/">Path to this point BLOG 1</a>
+									</li>
+											<li>
+					<a href="https://unco-d2se.com/hello-world/">Hello world!</a>
+									</li>
+					</ul>
+		</section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href="https://wordpress.org/" rel="external nofollow ugc" class="url">A WordPress Commenter</a></span> on <a href="https://unco-d2se.com/hello-world/#comment-1">Hello world!</a></li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>		<ul>
+				<li><a href="https://unco-d2se.com/2020/01/">January 2020</a></li>
+		</ul>
+			</section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title">Meta</h2>			<ul>
+						<li><a href="https://unco-d2se.com/wp-login.php">Log in</a></li>
+			<li><a href="https://unco-d2se.com/feed/">Entries feed</a></li>
+			<li><a href="https://unco-d2se.com/comments/feed/">Comments feed</a></li>
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>			</ul>
+			</section>					</div>
+					</aside><!-- .widget-area -->
+
+		<div class="site-info">
+										<a class="site-name" href="https://unco-d2se.com/" rel="home">D2 Software</a>,
+						<a href="https://wordpress.org/" class="imprint">
+				Proudly powered by WordPress.			</a>
+								</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/unco-d2se.com\/new-literacy\/":33};
+	</script>
+				<script type="text/javascript" src="https://unco-d2se.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001"></script>
+<script type="text/javascript" src="https://unco-d2se.com/wp-content/themes/twentynineteen/js/priority-menu.js?ver=1.1"></script>
+<script type="text/javascript" src="https://unco-d2se.com/wp-content/themes/twentynineteen/js/touch-keyboard-navigation.js?ver=1.1"></script>
+<script type="text/javascript" src="https://unco-d2se.com/wp-includes/js/comment-reply.min.js?ver=5.3.2"></script>
+<script type="text/javascript" src="https://unco-d2se.com/wp-includes/js/wp-embed.min.js?ver=5.3.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://unco-d2se.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.1.1"></script>
+<script type="text/javascript">
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	<script type="text/javascript" src="https://stats.wp.com/e-202005.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.1.1',blog:'171556792',post:'33',tz:'0',srv:'unco-d2se.com'} ]);
+	_stq.push([ 'clickTrackerInit', '171556792', '33' ]);
+</script>
+
+
+
+
+<!--Generated by Endurance Page Cache--><img src="https://pixel.wp.com/g.gif?v=ext&amp;j=1%3A8.1.1&amp;blog=171556792&amp;post=33&amp;tz=0&amp;srv=unco-d2se.com&amp;host=unco-d2se.com&amp;ref=http%3A%2F%2Funco-d2se.com%2F&amp;fcp=1488&amp;rand=0.02370044070584587" alt=":)" width="6" height="5" id="wpstats"></body></html>
