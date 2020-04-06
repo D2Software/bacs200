@@ -80,8 +80,13 @@ hr {
 }
 
 footer{
+    align-items: center;
     margin-top: 20px;
     margin-right: 300px;
     margin-bottom: 20px;
     margin-left: 300px;
+}
+
+footer th{
+    align-content: center;
 }

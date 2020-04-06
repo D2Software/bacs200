@@ -1,0 +1,226 @@
+<?php
+//index.php
+
+$error = '';
+$name = '';
+$website = '';
+$message = '';
+
+function clean_text($string)
+{
+ $string = trim($string);
+ $string = stripslashes($string);
+ $string = htmlspecialchars($string);
+ return $string;
+}
+
+if(isset ($_POST["submit"]))
+{
+ if(empty($_POST["name"]))
+ {
+  $error .= '<p><label class="text-danger">Please Enter your Name</label></p>';
+ }
+ else
+ {
+  $name = clean_text($_POST["name"]);
+  if(!preg_match("/^[a-zA-Z ]*$/",$name))
+  {
+   $error .= '<p><label class="text-danger">Only letters and white space allowed</label></p>';
+  }
+ }
+ if(empty($_POST["website"]))
+ {
+  $error .= '<p><label class="text-danger">Please Enter your website</label></p>';
+ }
+ else
+ {
+  $email = clean_text($_POST["website"]);
+ }
+ if(empty($_POST["message"]))
+ {
+  $error .= '<p><label class="text-danger">Message is required</label></p>';
+ }
+ else
+ {
+  $message = clean_text($_POST["message"]);
+ }
+
+ if($error == '')
+ {
+  $file_open = fopen("review.csv", "a");
+  $no_rows = count(file("review.csv"));
+  if($no_rows > 1)
+  {
+   $no_rows = ($no_rows - 1) + 1;
+  }
+  $form_data = array(
+   'sr_no'  => $no_rows,
+   'name'  => $name,
+   'website'  => $website,
+   'message' => $message
+  );
+  fputcsv($file_open, $form_data);
+  $error = '<label class="text-success">Thank you for Your input</label>';
+  $name = '';
+  $website = '';
+  $message = '';
+ }
+}
+
+?>
+    <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+  <title>D2 Software Review Form</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="../style.css" rel="stylesheet">
+</head>
+
+<body>
+      <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="review-1.html">Review 1</a></li>
+            <li><a href="review-2.html">Review 2</a></li>
+            <li><a href="review-3.html">Review 3</a></li>
+            <li><a href="review-4.html">Review 4</a></li>
+         </ul>
+      </nav>
+    <header>
+        <div style="text-align:center">
+        <a href="">
+            <img src="../images/D2-Software-Logo.jpg" width="200" alt="D2 Software">
+        </a>
+        <h1>HOME PAGE</h1>
+        </div>
+    </header>
+    <main>
+<hr>
+        <section id="points">
+            <h1>Student Design Reviews</h1>
+
+            <div class="card">
+                <div class="card-header">
+                    Review Home Page
+                </div>
+
+                <div class="card-body card-padding">
+
+                    <table>
+                        <tbody>
+                        <tr>
+                            <td>Designer:</td>
+                            <td><b>dobe8145@bears.unco.edu</b></td>
+                        </tr>
+                        <tr>
+                            <td>Domain:</td>
+                            <td><b>http://www.unco-d2se.com</b></td>
+                        </tr>
+                        <tr>
+                            <td>Page:</td>
+                            <td>
+                                <b><a href="http://www.unco-d2se.com/bacs200/index.html">bacs200/index.html</a></b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Validator:</td>
+                            <td>
+                                <b>
+                                    <a href="https://validator.w3.org/nu/?doc=http://www.unco-d2se.com/bacs200/index.html">
+                                        bacs200/index.html</a>
+                                </b>
+                            </td>
+                        </tr>
+                    </tbody></table>
+
+                </div>
+            </div>
+        </section>
+        <section id="contents">
+              <div class="container">
+               <h2 align="center">Page 1 Review</h2>
+               <br />
+               <div class="col-md-6" style="margin:0 auto; float:none;">
+                <form method="post">
+                 <h3 align="center">Contact Form</h3>
+                 <br />
+                 <?php echo $error; ?>
+                 <div class="form-group">
+                  <label>Enter First Name</label>
+                  <input type="text" name="name" placeholder="Enter First Name" class="form-control" value="<?php echo $name; ?>">
+                 </div>
+                 <div class="form-group">
+                  <label>Enter Page Reviewed</label>
+                  <input type="text" name="website" class="form-control" placeholder="Enter Page Reviewed" value="<?php echo $website; ?>" />
+                 </div>
+                 <div class="form-group">
+                  <label>Enter Review</label>
+                  <textarea name="message" class="form-control" placeholder="Enter review"><?php echo $message; ?></textarea>
+                 </div>
+                    <br>
+                    <input type="checkbox" name="requirement_1" id="id_requirement_1" value="Reviewed page does not load"> &nbsp; <label>Reviewed page loads</label>
+                    <br>
+                    <input type="checkbox" name="requirement_2" id="id_requirement_2" value="List links do not work"> &nbsp; <label>List links work</label>
+                    <br>
+                    <input type="checkbox" name="requirement_3" id="id_requirement_3" value="Bad page flow"> &nbsp; <label>Good page flow</label>
+                    <br>
+                    <input type="checkbox" name="requirement_4" id="id_requirement_4" value="Page not appeaing"> &nbsp; <label>Page looks appealing</label>
+                    <br>
+                    <input type="checkbox" name="requirement_5" id="id_requirement_5" value="Incorrect title"> &nbsp; <label>Correct title</label>
+                    <br>
+                    <input type="checkbox" name="requirement_6" id="id_requirement_6" value="Page links do not work"> &nbsp; <label>Page links work</label>
+                    <br>
+                    <input type="checkbox" name="requirement_7" id="id_requirement_7" value="No wordpress access"> &nbsp; <label>Can access wordpress</label>
+                    <br>
+                    <input type="checkbox" name="requirement_8" id="id_requirement_8" value="No profile photo"> &nbsp; <label>Page profile photo exists</label>
+                    <br>
+                    <input type="checkbox" name="requirement_9" id="id_requirement_9" value="Footer icons inop"> &nbsp; <label>Footer icon links work</label>
+                    <br>
+                    <input type="checkbox" name="requirement_10" id="id_requirement_10" value="HTML does not validate"> &nbsp; <label>HTML validates</label>
+                 <div class="form-group" align="center">
+                  <input type="submit" name="submit" class="btn btn-info" value="Submit" />
+                 </div>
+                </form>
+               </div>
+              </div>
+        </section>
+        <section id="summary">
+            <a href="index.php">Review Form</a>
+        </section>
+    </main>
+<hr>
+    <footer>
+            <table>
+                <tbody>
+                    <tr>
+                        <th>
+                        <a href="https://twitter.com/duble_deez">
+                        <img src="../images/logos/TwitterBird.png" width="100" alt="My Twitter">
+                        </a>
+                        </th>
+                        <th>
+                        <a href="https://www.facebook.com/darren.dobelman">
+                        <img src="../images/logos/facebook.png" width="100" alt="My Facebook">
+                        </a>
+                        </th>
+                        <th>
+                        <a href="https://www.linkedin.com/in/darren-dobelman-0271b211b">
+                        <img src="../images/logos/linkedin-logo-hd-png-3.png" width="100" alt="My Linked-in">
+                        </a>
+                        </th>
+                    </tr>
+                    <tr>
+                        <p style="text-align:center">
+                         <small>&copy; Copyright 2020, D2 Software</small>
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+    </footer>
+</body>
+
+</html>
